@@ -1,0 +1,2 @@
+Maximum number is: 100
+Minimum number is: 0
