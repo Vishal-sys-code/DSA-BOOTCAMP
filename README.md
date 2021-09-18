@@ -1,7 +1,7 @@
 
 # DSA-BOOTCAMP
 
-In this repository, there is the assignment soultions for the DSA-BOOTCAMP by [Kunal Kushwaha](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
+In this repository, there is the assignment solutions for the DSA-BOOTCAMP by [Kunal Kushwaha](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)
 
 
 # Used Languages
