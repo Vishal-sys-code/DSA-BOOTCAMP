@@ -1,0 +1,4 @@
+Enter Number of Subject
+Enter The Marks Of The 5 Subject: 
+Total Marks: 421
+Grade: A+
